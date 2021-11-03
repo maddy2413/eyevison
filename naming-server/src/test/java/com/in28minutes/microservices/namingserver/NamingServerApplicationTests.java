@@ -10,8 +10,6 @@ class NamingServerApplicationTests {
 	void contextLoads() {
 	}
 
-	@Test
-	void contextLoads_more() {
-	}
+
 
 }

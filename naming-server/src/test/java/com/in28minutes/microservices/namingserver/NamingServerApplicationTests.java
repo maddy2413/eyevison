@@ -9,6 +9,9 @@ class NamingServerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@Test
+	void contextLoads_evida() {
+	}
 
 
 
